@@ -1,6 +1,12 @@
 # Coder Army Tracker
 > All in One, One Stop Tracker
 
+> [Complete DSA Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td)
+
+> Also checkout out -> https://t.me/codingenthusiats for the Notes.
+
+> Sorry, for the incompleteness in the tracker, trying to complete it as soon as possible.
+
 | Day | Lecture | Title | Class Illustrations | Notes | HomeWork Sheet | Solutions | Revision |
 | --- | ------- | ----- | ------------------- | ----- | -------------- | --------- | -------- |
 | 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) || [View](https://drive.google.com/file/d/1RcgPqM7PQSv9LL24PkBzKa1Zzwc3uHWW) | [Solve](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk) | [Completed](https://github.com/hsd1807/Coder-Army/blob/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/001.%20Introduction%20To%20Programming%20for%20Beginners/HomeWork%20Sheet%20Answers) |
@@ -53,16 +59,47 @@
 | 66 | 48 | [Double Pointer and Multiple Pointers](https://www.youtube.com/watch?v=j2GInxA3HpI) ||| [Solve](https://docs.google.com/document/d/1SvTBPzz4WCWSQhwmkmR-7alAoIqCQ9VnYOd_iobLe3s) |
 | 67 | 49 | [Memory Management and Allocation](https://www.youtube.com/watch?v=bLYuiCD0Sr4) ||| []() |
 | 71 | 50 | [Dynamic Memory Allocation of 2D and 3D Arrays](https://www.youtube.com/watch?v=tFCc2ESnG4w) ||| [Solve](https://docs.google.com/document/d/1VDGxA2n-fUqRApYPm0uCQpPKiPQc9FKuVPgBPx2xDLs) |
-| 72 | 51 | [Introduction To Recursion](https://www.youtube.com/watch?v=j_n1W5YgN_4) ||| [Solve](https://docs.google.com/document/d/1i3NCiFKN9Bl3tkXW2zoXzE8h0nJ0WCKv4uGnk5wUxz4) |
-| 73 | 52 |[Solve Recursion Problem from 4 Different Methods](https://www.youtube.com/watch?v=2OQ46x0Zka8) ||| [Solve](https://docs.google.com/document/d/1BzXvbAbFf0elb5BzbFj8AmkM6nK3kxPxwWLvxaPtlEk) |
-| 74 | 53 | [4 Recursive Problems in One shot](https://www.youtube.com/watch?v=LLsIA8U3z18) ||| [Solve](https://docs.google.com/document/d/1ZCwIkpCuYXqUXSZHp7P9lkSJV1wo04tWWnVeSeaOQd4) |
+| 72 | 51 | [Introduction To Recursion](https://www.youtube.com/watch?v=j_n1W5YgN_4) || [View](https://drive.google.com/file/d/1SiZZpauI-NN68b6i39Jc3TknZ7HRVPZS) | [Solve](https://docs.google.com/document/d/1i3NCiFKN9Bl3tkXW2zoXzE8h0nJ0WCKv4uGnk5wUxz4) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/051.%20Introduction%20To%20Recursion%20From%20Basic%20To%20Advance/HomeWork%20Sheet%20Solutions) |
+| 73 | 52 |[Solve Recursion Problem from 4 Different Methods](https://www.youtube.com/watch?v=2OQ46x0Zka8) ||| [Solve](https://docs.google.com/document/d/1BzXvbAbFf0elb5BzbFj8AmkM6nK3kxPxwWLvxaPtlEk) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/052.%20How%20To%20Solve%20Recursion%20Problem%20from%204%20Different%20Method/HomeWork%20Sheet%20Solutions) |
+| 74 | 53 | [4 Recursive Problems in One shot](https://www.youtube.com/watch?v=LLsIA8U3z18) ||| [Solve](https://docs.google.com/document/d/1ZCwIkpCuYXqUXSZHp7P9lkSJV1wo04tWWnVeSeaOQd4) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/053.%20Recursion%3A%20Factorial%20of%20a%20Number%20%7C%20Sum%20of%20N%20numbers%20%7C%20Power%20of%20number%20%7C%20Sum%20of%20Square%20of%20N%20Numbers/HomeWork%20Sheet%20Solutions) |
 | 75 | 54 | [Recursion Problems on Leetcode](https://www.youtube.com/watch?v=LK0XSDoN62Y) ||| [Solve](https://docs.google.com/document/d/1aM7Z9bGbh-otGxRtYddXkHCJgp-8oyPlaX1FCsw6p4w) |
+| 78 | 55 | [Recursion in Arrays](https://www.youtube.com/watch?v=OxXS1m7afIQ) ||| [Solve](https://docs.google.com/document/d/1lzUIXHtk7LnExRm1w01xwLbGURZV7eXUHDsGgOTw3DY) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/055.%20Recursion%20in%20Arrays/HomeWork%20Sheet%20Solution) |
+| 79 | 56 | [Recursion in Strings](https://www.youtube.com/watch?v=HsrNq_14GhY) ||| [Solve](https://docs.google.com/document/d/1GmBtnRi9jvQOzRnfW0slgXu9DRsxdVZM-kB-N5tPJkY) |
+| 80 | 57 | [Recursion in Binary Search](https://www.youtube.com/watch?v=OnrJK8DcD2M) ||| [Solve](https://docs.google.com/document/d/1SAYcJjyQOHJwkJl4WMQZJH3GHmx787vWa9akhV3gth0) |
+| 81 | 58 | [Time Complexity and Space Complexity in Recursion](https://www.youtube.com/watch?v=2Ekun-ocGnQ) ||| [Solve](https://docs.google.com/document/d/1jR1DMVTqNwykIWc1zapQTBVUIodKsrFSkXD5nDldnx8) |
+| 82 | 59 | [Merge Sort Algorithm](https://www.youtube.com/watch?v=86HOPLCgc00) ||| [Solve](https://docs.google.com/document/d/1rlcfbRod8-KLleMrA7pOcQX0Cs6Ldd7UDlKPt-mcdOs) |
+| 85 | 60 | [Quick Sort Algorithm](https://www.youtube.com/watch?v=iVj8uyd50f4) ||| [Solve](https://docs.google.com/document/d/1IB8LQ5DaK4TPp-Z_lTI4AJ1jVXLBX1pgwt8iVN9apPo) |
+| 86 | 61 | [Recursion on Subsequence, Print All Subsequence & Generate Parentheses](https://www.youtube.com/watch?v=VxFM14y1-v4) ||| [Solve](https://docs.google.com/document/d/1bBQHnmBCQ73dZ4CAwKtCwqS1HS-VyPSsEWNGMCtycTY) |
+| 87 | 62 | [Recursion on Subset Sum, Target Sum](https://www.youtube.com/watch?v=73X0vvmUNHE) ||| [Solve](https://docs.google.com/document/d/1spu4emqSGAvfa9GCwK3g-2mDWbli7izhiGqMqMQU7KQ) |
+| 88 | 63 | [Recursion Perfect Sum Problem, Target Sum with Repetition](https://www.youtube.com/watch?v=ki9elYV2r24) ||| [Solve](https://docs.google.com/document/d/1Gg8eOt6PhAkvQ4R-GhYvnQCbF5Pk_Ozn4DPyxjoEkYQ) |
+| 89 | 64 | [Permutation of Arrays and Strings](https://www.youtube.com/watch?v=i7ev3Rb6dEo) ||| [Solve](https://docs.google.com/document/d/1yEcj3HusMbQhK9PJAJrith3im9Kf8ldkcHO-JI_yiF4) |
+| 92 | 65 | [ Permutation with Repetition,Ways to Sum N](https://www.youtube.com/watch?v=CQOUIxwQmec) ||| [Solve](https://docs.google.com/document/d/1XIlmd87WT9s18dzkwoIbdDO3PuvZFMCml_A-wF8I9UA) |
+| 93 | 66 | [Tower of Hanoi](https://www.youtube.com/watch?v=V5vNq2WOPGE) ||| [Solve](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) |
+| 94 | 67 | [Josephus Problem - Predict the winner](https://www.youtube.com/watch?v=WoLrGKbxR-M) ||| [Solve](https://leetcode.com/problems/find-the-winner-of-the-circular-game) |
+| 95 | 68 | [Recursion Rat in a Maze Problem](https://www.youtube.com/watch?v=r6I99L8E410) ||| [Solve](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |
+| 96 | 69 | [Print N-bit binary numbers having more 1s than 0s](https://www.youtube.com/watch?v=Rsz-P47fy4c) ||| [Solve](https://www.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1) |
+| 99 | 70 | [Introduction To Object Oriented Programming](https://www.youtube.com/watch?v=iw1Xf_33YM0) ||| [Solve](https://docs.google.com/document/d/1Wi3Vb5HO7NemmoVqCR_VxCbBmRJkAAETuwisWqI3rUc) |
+| 100 | 71 | [Constructor and Destructor](https://www.youtube.com/watch?v=sNiiJ16dLz0) ||| [Solve](https://docs.google.com/document/d/1AvF6VNPoTAIjmvmGY6WiG_WA64PlMhX1-H_tfwBSaMM) |
+| 101 | 72 | [Static data Member and Function, Encapsulation & Abstraction](https://www.youtube.com/watch?v=ZIL8t5AoGmQ) ||| [Solve](https://docs.google.com/document/d/1yZgg5Jfky0cFY8UcbnQOaYg02msXyCaVuTIXXzH6Ya0) |
+| 102 | 73 | [Inheritance](https://www.youtube.com/watch?v=qq3BY4viEB4) ||| [-]() |
+| 106 | 74 | [Types of Inheritance](https://www.youtube.com/watch?v=ww02EpE4DZo) ||| [Solve](https://docs.google.com/document/d/1liT4V5S4rxanlkzqX4tsRslkh9d_NSpN9-01962nJ5s) |
+| 107 | 75 | [Polymorphism and Virtual Function](https://www.youtube.com/watch?v=p2h8rGnkD0o) ||| [Solve](https://docs.google.com/document/d/1w95UtbHuoBNTrs5ptSCIsdveDUEoJAyoPPBTXWIOLSo) |
+| 108 | 76 | [Exception Handling](https://www.youtube.com/watch?v=essQiHKRmrc) ||| []() |
+| 109 | 77 | [File Handling](https://www.youtube.com/watch?v=NBsmPHXjLfg) ||| []() |
+| 112 | 78 | [Introduction To Linked List - Traversal and Insertion](https://www.youtube.com/watch?v=CE150x4w0bo) ||| []() |
+| 114 | 79 | [Deletion in a Singly Linked List, Deletion in Constant Time](https://www.youtube.com/watch?v=tLeSDFqch3I) ||| []() |
+| 115 | 80 | [Reverse a Linked List, Middle of Linked List, Rotate Linked List](https://www.youtube.com/watch?v=xcm3srdOQ0w) ||| []() |
+| 116 | 81 | [Linked List LeetCode Problem: Remove Every Kth Node, Rotate List, Palindrome Linked List](https://www.youtube.com/watch?v=qEJrlcc-hAY) ||| []() |
+| 119 | 82 | [Introduction to Doubly Linked List](https://www.youtube.com/watch?v=KHvYGAzFKqA) ||| []() |
+| 120 | 83 | [LinkedList Problems](https://www.youtube.com/watch?v=XlwYGxlUQAA) ||| []() |
+| 121 | 84 | [Circular Linked List: Detect Loop in Linked List](https://www.youtube.com/watch?v=nPwQ07wHvcM) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
 | Class Number | Topic | Notes |
 | - | - | - |
 | 1 | [Introduction to Arrays in C++](https://unacademy.com/class/introduction-to-arrays-in-c/6ZMMUMMU) | |
+| 2 | [Binary Search in DSA](https://unacademy.com/class/binary-search-in-dsa/NDJR4ZO4) | |
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
 
